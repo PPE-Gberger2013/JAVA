@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_17" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Terrasse">
+    <void property="height">
+     <float>15.0</float>
+    </void>
+    <void property="width">
+     <float>15.0</float>
+    </void>
+    <void property="x">
+     <float>579.0</float>
+    </void>
+    <void property="y">
+     <float>300.0</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Etalage">
+    <void property="height">
+     <float>15.0</float>
+    </void>
+    <void property="width">
+     <float>15.0</float>
+    </void>
+    <void property="x">
+     <float>464.0</float>
+    </void>
+    <void property="y">
+     <float>239.0</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Etalage">
+    <void property="height">
+     <float>15.0</float>
+    </void>
+    <void property="width">
+     <float>15.0</float>
+    </void>
+    <void property="x">
+     <float>339.0</float>
+    </void>
+    <void property="y">
+     <float>354.0</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Terrasse">
+    <void property="height">
+     <float>15.0</float>
+    </void>
+    <void property="width">
+     <float>15.0</float>
+    </void>
+    <void property="x">
+     <float>301.0</float>
+    </void>
+    <void property="y">
+     <float>184.0</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Terrasse">
+    <void property="height">
+     <float>15.0</float>
+    </void>
+    <void property="width">
+     <float>15.0</float>
+    </void>
+    <void property="x">
+     <float>524.0</float>
+    </void>
+    <void property="y">
+     <float>153.0</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Terrasse">
+    <void property="height">
+     <float>15.0</float>
+    </void>
+    <void property="width">
+     <float>15.0</float>
+    </void>
+    <void property="x">
+     <float>139.0</float>
+    </void>
+    <void property="y">
+     <float>404.0</float>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
